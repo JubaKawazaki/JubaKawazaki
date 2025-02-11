@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Express.js for my work
 - 💞️ I’m looking for opportunities to learn and get experience
 - 📫 How to reach me? via social media with the same name 
-- ⚡ Fun fact: ...
