@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JubaKawazaki
-- 👀 I’m interested in Technologie and Development such as web and mobile
-- 🌱 I’m currently learning php MVC for my degree project
+- 👀 I’m interested in Web-Dev and Tech-news
+- 🌱 I’m currently learning Express.js for my work
 - 💞️ I’m looking for opportunities to learn and get experience
 - 📫 How to reach me? via social media with the same name 
 - ⚡ Fun fact: ...
