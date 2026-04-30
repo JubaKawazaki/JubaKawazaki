@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web-Dev and Tech-news
 - 🌱 I’m currently learning to do a lot of things like content creation, editing, marketing and laravel
 - 💞️ I’m looking for opportunities to learn and get experience
-- 📫 How to reach me? via social media with the same name 
+- 📫 How to reach me? via Email or social media with the same name 
