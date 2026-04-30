@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JubaKawazaki
 - 👀 I’m interested in Web-Dev and Tech-news
-- 🌱 I’m currently learning Express.js for my work
+- 🌱 I’m currently learning to do a lot of things like content creation, editing, marketing and laravel
 - 💞️ I’m looking for opportunities to learn and get experience
 - 📫 How to reach me? via social media with the same name 
